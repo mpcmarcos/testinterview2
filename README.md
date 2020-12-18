@@ -1,4 +1,4 @@
-# EXERCICES 
+# EXERCISES 
 1. No controller TestController.cs criar uma tela que tenha 2 textbox e um botão, al clicar no botão os dados tem que ser salvados no banco de dados.
 
 2. O controller TestController so pode ser acessado por um usuario logado (Tenha feito login)
