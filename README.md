@@ -5,4 +5,3 @@
 
 3. Fazer uma revisão de codigo de PullRequestControlle.cs
 
-Podem criar um PR em github o enviar o codigo a marcos.palacios@infojobs.com.br
