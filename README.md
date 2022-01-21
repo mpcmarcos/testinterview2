@@ -1,7 +1,7 @@
-# EXERCISES 
-1. No controller TestController.cs criar uma tela que tenha 2 textbox e um botão, al clicar no botão os dados tem que ser salvados no banco de dados.
+# EJERCICIOS 
+1. En el controller TestController.cs crear uma pagina que tenga 2 textbox y um botão, al clicar enn el boton tiene que guardar en una base de datos.
 
-2. O controller TestController so pode ser acessado por um usuario logado (Tenha feito login)
+2. El controller TestController solo puede ser accedido por un usuario logado.
 
-3. Fazer uma revisão de codigo de PullRequestControlle.cs
+3. Realizar una revisión del código de PullRequestControlle.cs
 
